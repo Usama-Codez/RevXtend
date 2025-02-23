@@ -1,3 +1,3 @@
 ## Project is curently in progress
 
-Languages used: React Native, Java Script
+Languages & Frameworks used: React Native, Java Script
