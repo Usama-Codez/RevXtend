@@ -4,4 +4,4 @@ Languages & Frameworks: React Native, Java Script
 
 ## IDE
 VS Code
-Android Studio
+Android  
