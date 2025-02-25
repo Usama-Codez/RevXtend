@@ -2,4 +2,5 @@
 
 Languages & Frameworks used: React Native, Java Script
 
-IDE: VS Code
+## IDE
+VS Code
