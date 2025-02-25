@@ -1,6 +1,6 @@
 ## Project is curently in progress
 
-Languages & Frameworks used: React Native, Java Script
+Languages & Frameworks: React Native, Java Script
 
 ## IDE
 VS Code
