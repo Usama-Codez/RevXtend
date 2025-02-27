@@ -2,7 +2,7 @@
 
 ## Project is curently in progress!!!
 
-Tech Stack: React Native, Java Script, Node.js, Firebase
+Tech Stack: React Native,  Node.js, Firebase
 
 ## IDE
 VS Code
