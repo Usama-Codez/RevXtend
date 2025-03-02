@@ -8,4 +8,4 @@ Tech Stack: JavaScript, Node.js, React Native, Firebase Auth
 VS Code
 
 ## Compatability:
- Android
+ Android, IOS
