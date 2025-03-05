@@ -4,7 +4,7 @@
 
  Tech Stack: JavaScript, Node.js, React Native, Firebase Auth
 
-## IDE: 
+## IDE:
  VS Code
 
 ## Compatability:
