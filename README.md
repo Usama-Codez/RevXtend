@@ -1,6 +1,6 @@
 # RevXtend
 
-## Project is curently in progress... 
+## Project is curently in progress...  
 
  Tech Stack: JavaScript, Node.js, React Native, Firebase Auth, Git
 
