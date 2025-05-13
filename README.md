@@ -8,4 +8,4 @@
  VS Code
  
 ## Compatability:
- Android, IOS and Web
+ Android, IOS
